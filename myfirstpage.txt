@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>A simple HTML document</title>
+</head>
+<body>
+     <marquee><h1>Hello World!</h1></marquee>
+<img src="Cassie.jpg" alt="Me!" style="width: 50%; height: auto;">
+<p>This is my very first webpage in IT.115</p>
+<h2>My Top 3 Favorite Foods are:</h2>
+	<ol>
+	  <li>Tacos</li>
+	  <li>Pizza</li>
+	  <li>Chinese Food</li>
+</ol>
+
+<p>My favorite website is
+<a href="https://www.amazon.com">Amazon</a>
+because I am addicted to online shopping!</p>
+
+</body>
+</html>
